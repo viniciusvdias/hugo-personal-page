@@ -7,7 +7,7 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*2016 16th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)*"
-tags: ["data handling;parallel programming;program diagnostics;software performance evaluation;performance bottleneck diagnosis;massive data parallel programs;Spark programming environment;Parallel processing;Sparks;Data models;Partitioning algorithms;Layout;Itemsets;Algorithm design and analysis;performance evaluation;performance diagnosis;data parallel;distributed processing;load balancing;job optimization;task placement"]
+tags: ["performance bottleneck diagnosis;spark;performance"]
 doi: "10.1109/CCGrid.2016.81"
 ---
 

@@ -7,7 +7,7 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*2014 International Symposium on Computer Architecture and High Performance Computing Workshop*"
-tags: ["Big Data;data mining;Internet;unsolicited e-mail;Hadoop extension;mail folder;spam dataset;Web 2.0;e-mail;spam traffic;data mining;big data processing;Electronic mail;Postal services;Educational institutions;Internet;Programming;Servers;mail;spam;hadoop"]
+tags: ["hadoop;hadoop extension;spam;mail;performance"]
 doi: "10.1109/SBAC-PADW.2014.25"
 ---
 

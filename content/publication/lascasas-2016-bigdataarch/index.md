@@ -7,7 +7,7 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*2016 IEEE 2nd International Conference on Big Data Security on Cloud (BigDataSecurity)*"
-tags: ["Big Data;computer crime;unsolicited e-mail;Big Data architecture;security data;phishing characterization;Internet;cybersecurity problems;spam;global honeynet;Sparks;Big data;Computer architecture;Computer security;Electronic mail;Scalability;architecture;cybersecurity;spam;phishing;hadoop;spark"]
+tags: ["spark;big data;security;phishing"]
 doi: "10.1109/BigDataSecurity-HPSC-IDS.2016.44"
 ---
 
