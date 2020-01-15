@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+#role: PhD Student / Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: Universidade Federal de Minas Gerais
-  url: ""
+- name: Universidade Federal de Minas Gerais (PhD student)
+  url: "http://ufmg.br"
+- name: Universidade Federal de Ouro Preto (Lecturer)
+  url: "http://ufop.br"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -44,6 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:viniciusvdias@dcc.ufmg.br
+- icon: envelope
+  icon_pack: fas
+  link: mailto:viniciusvdias@ufop.edu.br
 # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
@@ -70,8 +75,10 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student in the Computer Science Department (DCC) at Federal
-University of Minas Gerais (UFMG), Brazil. Before that I received my M.Sc. at
+I am a Ph.D. student in the Computer Science Department (DCC) at Universidade
+Federal de Minas Gerais (UFMG), Brazil. I am also a lecturer in the Computer and
+Systems Department (DECSI) at Universidade Federal de Ouro Preto.
+Before that I received my M.Sc. at
 the same institution. And before that I received my B.Sc. in Computer Science
-from Federal University of Uberlândia (UFU), Brazil.
+from Universidade Federal de Uberlândia (UFU), Brazil.
 
