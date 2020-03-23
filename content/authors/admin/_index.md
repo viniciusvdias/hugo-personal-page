@@ -78,7 +78,6 @@ user_groups:
 I am a Ph.D. student in the Computer Science Department (DCC) at Universidade
 Federal de Minas Gerais (UFMG), Brazil. I am also a lecturer in the Computer and
 Systems Department (DECSI) at Universidade Federal de Ouro Preto.
-Before that I received my M.Sc. at
-the same institution. And before that I received my B.Sc. in Computer Science
+Before that I received my M.Sc. from UFMG. And before that I received my B.Sc. in Computer Science
 from Universidade Federal de Uberlândia (UFU), Brazil.
 
