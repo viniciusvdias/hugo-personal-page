@@ -74,22 +74,17 @@ subtitle = ""
 
 #### Computer Networks
 
-##### [&#182; [pt] Por onde vem a internet?](https://www.youtube.com/watch?v=fYJl-7jRzuw)
-Vídeo introdutório muito interessante mostrando, em alto nível, como a internet
-funciona.
+   |
+-- | --
+[!["Por onde vem a internet?"](https://img.youtube.com/vi/fYJl-7jRzuw/0.jpg#youtubethumbnail)](https://www.youtube.com/watch?v=fYJl-7jRzuw) | **[[pt-br] Por onde vem a internet?](http://www.youtube.com/watch?v=fYJl-7jRzuw).** Vídeo introdutório muito interessante mostrando, em alto nível, como a internet funciona.
 
 --- 
 
 #### Education/Learning
 
-##### [&#182; [pt] Provocações - Rubem Alves](http://www.youtube.com/watch?v=VASben3f4GM)
-A visão experiente do professor Rubem Alves sobre a educação no Brasil. Vale a
-pena pelo pensamento disruptivo do professor Rubem Alves e pela audácia quase
-que trágica do Abujamra (rsrs). 
-
-##### [&#182; [pt] Podcast Naruhodo! 205](https://www.b9.com.br/shows/naruhodo/naruhodo-205-powerpoint-e-util-para-a-aprendizagem/)
-
-Diferença entre "entender" e "aprender".
-Discute e critica métodos de aprendizagem com base em estudos científicos: muito interessante, muito prático.
+   |
+-- | --
+[!["Provocações - Rubem Alves"](https://img.youtube.com/vi/VASben3f4GM/0.jpg#youtubethumbnail)](https://www.youtube.com/watch?v=VASben3f4GM) | **[[pt-br] Provocações - Rubem Alves](http://www.youtube.com/watch?v=VASben3f4GM).** A visão experiente do professor Rubem Alves sobre a educação no Brasil. Vale a pena pelo pensamento disruptivo do professor Rubem Alves e pela audácia quase que trágica do Abujamra (rsrs). 
+[!["Podcast Naruhodo! 205"](https://assets.b9.com.br/wp-content/uploads/2019/10/naruhodo-capa-qudrado-205.png#youtubethumbnail)](https://www.b9.com.br/shows/naruhodo/naruhodo-205-powerpoint-e-util-para-a-aprendizagem/) | **[[pt-br] Podcast Naruhodo! #205](https://www.b9.com.br/shows/naruhodo/naruhodo-205-powerpoint-e-util-para-a-aprendizagem/).** Diferença entre "entender" e "aprender". Discute e critica métodos de aprendizagem com base em estudos científicos: muito interessante, muito prático.
 
 --- 
