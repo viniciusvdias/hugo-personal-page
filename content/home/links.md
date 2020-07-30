@@ -88,3 +88,11 @@ subtitle = ""
 [!["Podcast Naruhodo! 205"](https://assets.b9.com.br/wp-content/uploads/2019/10/naruhodo-capa-qudrado-205.png#youtubethumbnail)](https://www.b9.com.br/shows/naruhodo/naruhodo-205-powerpoint-e-util-para-a-aprendizagem/) | **[[pt-br] Podcast Naruhodo! #205](https://www.b9.com.br/shows/naruhodo/naruhodo-205-powerpoint-e-util-para-a-aprendizagem/).** Diferença entre "entender" e "aprender". Discute e critica métodos de aprendizagem com base em estudos científicos: muito interessante, muito prático.
 
 --- 
+
+#### Music
+
+   |
+-- | --
+[!["Sunday Baroque"](https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/1a/5c/a8/1a5ca875-abd4-ff46-526d-d82f0dc09841/mza_4774426373354233765.jpg/600x600bb.jpg#youtubethumbnail)](https://sundaybaroque.org/listen/) | **[[en] Sunday Baroque](https://sundaybaroque.org/listen/).** Classical Baroque Music for fun and profit. 
+
+--- 
