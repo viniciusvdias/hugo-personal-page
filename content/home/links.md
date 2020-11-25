@@ -72,27 +72,28 @@ subtitle = ""
 
 --- 
 
+#### Research
+
+**[[en] Stop the numbers game](https://dl.acm.org/doi/10.1145/1297797.1297815).** Interesting reflections on using the number of publications as measure for scientific progress. This paper is from 2007, still relevant though.
+
+--- 
+
 #### Computer Networks
 
-   |
--- | --
-[!["Por onde vem a internet?"](https://img.youtube.com/vi/fYJl-7jRzuw/0.jpg#youtubethumbnail)](https://www.youtube.com/watch?v=fYJl-7jRzuw) | **[[pt-br] Por onde vem a internet?](http://www.youtube.com/watch?v=fYJl-7jRzuw).** Vídeo introdutório muito interessante mostrando, em alto nível, como a internet funciona.
+**[[pt-br] Por onde vem a internet?](http://www.youtube.com/watch?v=fYJl-7jRzuw).** Vídeo introdutório muito interessante mostrando, em alto nível, como a internet funciona.
 
 --- 
 
 #### Education/Learning
 
-   |
--- | --
-[!["Provocações - Rubem Alves"](https://img.youtube.com/vi/VASben3f4GM/0.jpg#youtubethumbnail)](https://www.youtube.com/watch?v=VASben3f4GM) | **[[pt-br] Provocações - Rubem Alves](http://www.youtube.com/watch?v=VASben3f4GM).** A visão experiente do professor Rubem Alves sobre a educação no Brasil. Vale a pena pelo pensamento disruptivo do professor Rubem Alves e pela audácia quase que trágica do Abujamra (rsrs). 
-[!["Podcast Naruhodo! 205"](https://assets.b9.com.br/wp-content/uploads/2019/10/naruhodo-capa-qudrado-205.png#youtubethumbnail)](https://www.b9.com.br/shows/naruhodo/naruhodo-205-powerpoint-e-util-para-a-aprendizagem/) | **[[pt-br] Podcast Naruhodo! #205](https://www.b9.com.br/shows/naruhodo/naruhodo-205-powerpoint-e-util-para-a-aprendizagem/).** Diferença entre "entender" e "aprender". Discute e critica métodos de aprendizagem com base em estudos científicos: muito interessante, muito prático.
+**[[pt-br] Provocações - Rubem Alves](http://www.youtube.com/watch?v=VASben3f4GM).** A visão experiente do professor Rubem Alves sobre a educação no Brasil. Vale a pena pelo pensamento disruptivo do professor Rubem Alves e pela audácia quase que trágica do Abujamra (rsrs). 
+
+**[[pt-br] Podcast Naruhodo! #205](https://www.b9.com.br/shows/naruhodo/naruhodo-205-powerpoint-e-util-para-a-aprendizagem/).** Diferença entre "entender" e "aprender". Discute e critica métodos de aprendizagem com base em estudos científicos: muito interessante, muito prático.
 
 --- 
 
 #### Music
 
-   |
--- | --
-[!["Sunday Baroque"](https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/1a/5c/a8/1a5ca875-abd4-ff46-526d-d82f0dc09841/mza_4774426373354233765.jpg/600x600bb.jpg#youtubethumbnail)](https://sundaybaroque.org/listen/) | **[[en] Sunday Baroque](https://sundaybaroque.org/listen/).** Classical Baroque Music for fun and profit. 
+**[[en] Sunday Baroque](https://sundaybaroque.org/listen/).** Classical Baroque Music for fun and profit. 
 
 --- 
