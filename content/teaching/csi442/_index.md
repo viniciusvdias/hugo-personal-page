@@ -17,17 +17,11 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   csi442:
-    name: CSI442 - Banco de Dados II
-    weight: 1
+#    name: CSI442 - Banco de Dados II
+#    weight: 1
 ---
 
 ## CSI442 - Banco de Dados II
-
-### Objetivo
-
-Desenvolver o conteúdo programático proposto, possibilitando a compreensão de
-técnicas, recursos e soluções avançadas para uma manipulação eficiente de
-sistemas de banco de dados.
 
 ### Ementa
 

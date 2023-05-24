@@ -18,36 +18,47 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Lecturer"
+  title = "Professor"
+  company = "Universidade Federal de Lavras"
+  company_url = ""
+  location = "Lavras"
+  date_start = "2023-05-02"
+  date_end = ""
+  description = """
+  """
+
+[[experience]]
+  title = "Professor"
   company = "Universidade Federal de Ouro Preto"
   company_url = ""
   location = "João Monlevade"
   date_start = "2019-11-27"
-  date_end = ""
+  date_end = "2023-05-02"
   description = """
   """
 
 [[experience]]
-  title = "PhD student"
+  title = "PhD"
   company = "Universidade Federal de Minas Gerais"
   company_url = ""
   location = "Belo Horizonte"
   date_start = "2018-01-01"
-  date_end = ""
+  date_end = "2023-04-24"
   description = """
   """
 
 [[experience]]
-  title = "MSc Student"
+  title = "MSc"
   company = "Universidade Federal de Minas Gerais"
   company_url = ""
   location = "Belo Horizonte"
+  year_start = "2014"
   date_start = "2014-01-01"
   date_end = "2016-12-31"
   description = """"""
 
 [[experience]]
-  title = "Grad Student"
+  title = "Grad"
   company = "Universidade Federal de Uberlândia"
   company_url = ""
   location = "Uberlândia"

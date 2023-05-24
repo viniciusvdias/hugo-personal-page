@@ -17,8 +17,8 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   csi548:
-    name: CSI548 - Redes de Computadores I
-    weight: 1
+#    name: CSI548 - Redes de Computadores I
+#    weight: 1
 ---
 
 ## CSI548 - Redes de Computadores I

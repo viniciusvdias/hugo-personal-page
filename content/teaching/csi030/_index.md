@@ -17,15 +17,11 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   csi030:
-    name: CSI030 - Programação de Computadores I
-    weight: 1
+#    name: CSI030 - Programação de Computadores I
+#    weight: 1
 ---
 
 ## CSI030 - Programação de Computadores I
-
-### Objetivo
-
-Desenvolver noções de organização e funcionamento de computadores e habilidades básicas de programação e algoritmos.
 
 ### Ementa
 

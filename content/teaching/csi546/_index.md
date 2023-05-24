@@ -17,18 +17,11 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   csi546:
-    name: CSI546 - Projeto e Análise de Algoritmos
-    weight: 1
+#    name: CSI546 - Projeto e Análise de Algoritmos
+#    weight: 1
 ---
 
 ## CSI546 - Projeto e Análise de Algoritmos
-
-### Objetivo
-
-Desenvolver o conteúdo programático proposto, possibilitando a compreensão de
-conceitos e técnicas de análise e projeto de algoritmos. Apresentar e consolidar
-noções de limitações das classes de algoritmos, em termos de complexidade e
-poder de solução de problemas.
 
 ### Ementa
 

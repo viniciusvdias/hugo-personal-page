@@ -14,10 +14,8 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: Universidade Federal de Minas Gerais (PhD student)
-  url: "http://ufmg.br"
-- name: Universidade Federal de Ouro Preto (Lecturer)
-  url: "http://ufop.br"
+- name: Universidade Federal de Lavras (Professor)
+  url: "http://ufla.br"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -28,8 +26,9 @@ interests:
 
 education:
   courses:
-  - course: PhD student in Computer Science (Current)
+  - course: PhD in Computer Science
     institution: Universidade Federal de Minas Gerais
+    year: 2023
 #year: 2012
   - course: MSc in Computer Science
     institution: Universidade Federal de Minas Gerais
@@ -43,12 +42,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: mailto:viniciusvdias@dcc.ufmg.br
 - icon: envelope
   icon_pack: fas
-  link: mailto:viniciusvdias@dcc.ufmg.br
-- icon: envelope
-  icon_pack: fas
-  link: mailto:viniciusvdias@ufop.edu.br
+  link: mailto:viniciusdias@ufla.br
 # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
@@ -75,9 +74,12 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student in the Computer Science Department (DCC) at Universidade
-Federal de Minas Gerais (UFMG), Brazil. I am also a lecturer in the Computer and
-Systems Department (DECSI) at Universidade Federal de Ouro Preto.
-Before that I received my M.Sc. from UFMG. And before that I received my B.Sc. in Computer Science
-from Universidade Federal de Uberlândia (UFU), Brazil.
+I received my Ph.D. in the Computer Science from the Computer Science Department at Universidade
+Federal de Minas Gerais (DCC/UFMG), Brazil.
+I am a professor in the Computer Science Department at Universidade Federal de
+Lavras (DCC/UFLA), Brazil (2023-).
+I was a professor in the Computer and
+Systems Department (DECSI) at Universidade Federal de Ouro Preto (2020-2023).
+Before that I received my M.Sc. from UFMG (2014-2016). And before that I received my B.Sc. in Computer Science
+from Universidade Federal de Uberlândia (UFU), Brazil (2009-2013).
 
