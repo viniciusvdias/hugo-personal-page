@@ -1,0 +1,16 @@
+@INPROCEEDINGS {ferraz2022dumato,
+author = {S. Ferraz and V. Dias and C. C. Teixeira and G. Teodoro and W. Meira},
+booktitle = {2022 IEEE 34th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD)},
+title = {Efficient Strategies for Graph Pattern Mining Algorithms on GPUs},
+year = {2022},
+volume = {},
+issn = {},
+pages = {110-119},
+abstract = {Graph Pattern Mining (GPM) is an important, rapidly evolving, and computation demanding area. GPM computation relies on subgraph enumeration, which consists in extracting subgraphs that match a given property from an input graph. Graphics Processing Units (GPUs) have been an effective platform to accelerate applications in many areas. However, the irregularity of subgraph enumeration makes it challenging for efficient execution on GPU due to typical uncoalesced memory access, divergence, and load imbalance. Unfortunately, these aspects have not been fully addressed in previous work. Thus, this work proposes novel strategies to design and implement subgraph enumeration efficiently on GPU. We support a depth-first search style search (DFS-wide) that maximizes memory performance while providing enough parallelism to be exploited by the GPU, along with a warp-centric design that minimizes execution divergence and improves utilization of the computing capabilities. We also propose a low-cost load balancing layer to avoid idleness and redistribute work among thread warps in a GPU. Our strategies have been deployed in a system named DuMato, which provides a simple programming interface to allow efficient implementation of GPM algorithms. Our evaluation has shown that DuMato is often an order of magnitude faster than state-of-the-art GPM systems and can mine larger subgraphs (up to 12 vertices).},
+keywords = {instruction sets;high performance computing;memory management;graphics processing units;programming;parallel processing;load management},
+doi = {10.1109/SBAC-PAD55451.2022.00022},
+url = {https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD55451.2022.00022},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {nov}
+}

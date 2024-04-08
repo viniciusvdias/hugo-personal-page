@@ -72,12 +72,6 @@ subtitle = ""
 
 --- 
 
-#### Research
-
-**[[en] Stop the numbers game](https://dl.acm.org/doi/10.1145/1297797.1297815).** Interesting reflections on using the number of publications as measure for scientific progress. This paper is from 2007, still relevant though.
-
---- 
-
 #### Computer Networks
 
 **[[pt-br] Por onde vem a internet?](http://www.youtube.com/watch?v=fYJl-7jRzuw).** Vídeo introdutório muito interessante mostrando, em alto nível, como a internet funciona.
