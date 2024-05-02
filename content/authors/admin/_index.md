@@ -23,6 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Distributed and Parallel Systems
 - Scalable Graph Mining
+- Graph Learning
 
 education:
   courses:
