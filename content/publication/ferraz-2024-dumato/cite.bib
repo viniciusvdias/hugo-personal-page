@@ -1,0 +1,13 @@
+@Article{ferraz2024dumato,
+  author   = {Samuel Ferraz and Vinicius Dias and Carlos H.C. Teixeira and Srinivasan Parthasarathy and George Teodoro and Wagner Meira},
+  journal  = {Journal of Parallel and Distributed Computing},
+  title    = {DuMato: An efficient warp-centric subgraph enumeration system for GPU},
+  year     = {2024},
+  issn     = {0743-7315},
+  pages    = {104903},
+  volume   = {191},
+  abstract = {Subgraph enumeration is a heavy-computing procedure that lies at the core of Graph Pattern Mining (GPM) algorithms, whose goal is to extract subgraphs from larger graphs according to a given property. Scaling GPM algorithms for GPUs is challenging due to irregularity, high memory demand, and non-trivial choice of enumeration paradigms. In this work we propose a depth-first-search subgraph exploration strategy (DFS-wide) to improve the memory locality and access patterns across different enumeration paradigms. We design a warp-centric workflow to the problem that reduces divergences and ensures that accesses to graph data are coalesced. A weight-based dynamic workload redistribution is also proposed to mitigate load imbalance. We put together these strategies in a system called DuMato, allowing efficient implementations of several GPM algorithms via a common set of GPU primitives. Our experiments show that DuMato's optimizations are effective and that it enables exploring larger subgraphs when compared to state-of-the-art systems.},
+  doi      = {https://doi.org/10.1016/j.jpdc.2024.104903},
+  keywords = {Graph pattern mining, GPU, Irregular processing, Load-balancing, Enumeration paradigms},
+  url      = {https://www.sciencedirect.com/science/article/pii/S0743731524000674},
+}

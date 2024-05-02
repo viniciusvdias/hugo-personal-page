@@ -2,7 +2,7 @@
 title: "Graph Pattern Mining Paradigms: Consolidation and Renewed Bearing"
 date: 2023-01-01
 publishDate: 2023-09-01T14:57:50.186224Z
-authors: ["Vinicius Dias", "Samuel Ferraz", "Aditya Vadlamani", "Mahdi Erfanian", "Carlos H. C. Teixeira", "Dorgival Guedes", "Wagner Meira Jr.", "Srinivasan Parthasarathy"]
+authors: ["**[best paper nomination]** Vinicius Dias", "Samuel Ferraz", "Aditya Vadlamani", "Mahdi Erfanian", "Carlos H. C. Teixeira", "Dorgival Guedes", "Wagner Meira Jr.", "Srinivasan Parthasarathy"]
 publication_types: ["1"]
 abstract: ""
 featured: false
