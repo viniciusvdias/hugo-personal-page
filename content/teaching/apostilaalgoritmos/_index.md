@@ -19,6 +19,10 @@ menu:
   apostilaalgoritmos:
 ---
 
-## Separada por tópicos
-1. [Introdução à Análise de
-   Algoritmos](1-analise-algoritmos-intro.pdf)
+Este documento reúne algumas notas e compilações dos principais tópicos geralmente incluídos em
+cursos de nível superior em Ciência da Computação ou relacionados. O conteúdo inclui reflexões sobre
+os principais assuntos do estudo de análise, projeto e complexidade de algoritmos, além de compilações
+de exemplos e pontos chaves da bibliografia padrão da área. Por isso, créditos devidos aos excelentes
+livros: CORMEN [1], LEVITIN [4], ERICKSON [2] e TARDOS [3].
+
+## [Algoritmos: Notas e Compilações (formato: PDF)](algoritmos-vdias.pdf)
